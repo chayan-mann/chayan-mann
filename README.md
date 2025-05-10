@@ -23,6 +23,12 @@ Hi there! I'm **Chayan Mann**, a passionate developer dedicated to crafting eleg
 
 ---
 
+## 🤝 Connect with Me
+
+- **LinkedIn**: https://www.linkedin.com/in/chayan_mann
+- **Portfolio**: https://www.chayanmann.in/
+
+---
 ## 🛠️ Tech Stack
 
 Here are the technologies I work with:
@@ -74,10 +80,7 @@ Here are some insights into my GitHub activity:
 
 ---
 
-## 🤝 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/chayan_mann](#)
 
----
 
 
