@@ -69,8 +69,6 @@ Here are the technologies I work with:
 
 Here are some insights into my GitHub activity:
 
-### 📊 Contribution Graph
-![Chayan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chayan-mann&theme=github)
 
 
 
