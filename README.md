@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
 
-
-#  Welcome to My GitHub Profile
-
-Hi there! I'm **Chayan Mann**, a passionate developer dedicated to crafting elegant solutions and exploring new technologies. This repository serves as a portfolio to showcase my skills, tech stack, and personal projects.
-
----
+<h1 align="center">Hello, I'm Chayan 👋</h1>
+<h3 align="center">Building cool stuff with code</h3>
 
 ## 🤝 Connect with Me
 
@@ -28,47 +25,61 @@ Hi there! I'm **Chayan Mann**, a passionate developer dedicated to crafting eleg
 - **Portfolio**: https://www.chayanmann.in/
 
 ---
-## 🛠️ Tech Stack
 
-Here are the technologies I work with:
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### Languages:
-- **JavaScript / TypeScript**  
-- **Python**  
-- **C++**
-
-### Machine Learning, Deep Learning & Generative AI:
-- **Pandas**
-- **Numpy**
-- **Matplotlib**
-- **Scikit-learn**
-- **TensorFlow / PyTorch**
-- **Hugging Face Transformers**
-- **LangChain**
-- **AWS Bedrock**
-
-
-### Frameworks & Libraries:
-- **React.js / Next.js**  
-- **Express.js / FastAPI/**  
-- **Tailwind CSS / Bootstrap**  
-
-### Databases:
-- **MongoDB / PostgreSQL/ MySQL**  
-- **Redis**  
-
-### Tools & Platforms:
-- **Git / GitHub**  
-- **Docker / Kubernetes**  
-- **AWS** 
-- **CI/CD Pipelines**  
+- 🔥 This repository serves as a portfolio to showcase my skills, tech stack, and personal projects.  
+- 📖 Exploring **Next.js, TypeScript, and PostgreSQL**  
+- 🤝 Open to collaborating on **interesting web projects**  
+- 🚀 Need help? Happy to discuss **anything programming-related**  
+- 💡 Love solving problems with **efficient and scalable solutions**  
+- 📬 Reach me at **chayanmann09@gmail.com**  
 
 ---
 
-## 📈 GitHub Stats
 
-Here are some insights into my GitHub activity:
+### 🛠️ Tech Stack
+<p align="left">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
 
+  
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  
+  <!-- AI / ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  
+  <!-- Cloud / DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  
+  <!-- Blockchain -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
+
+
+
+
+---
 
 
 
