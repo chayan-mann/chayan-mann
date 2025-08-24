@@ -78,8 +78,10 @@ Here are some ideas to get you started:
 
 
 
-
 ---
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mann0907?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/0907/)
 
 
 
