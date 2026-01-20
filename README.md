@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <img src="photo.jpg" alt="MasterHead" style="width:100%; height:auto;">
 
-<h1 align="center">Hello, I'm Chayan 👋</h1>
-<h3 align="center">Building cool stuff with code</h3>
+<h1 align="center">Hello, I'm Chayan Mann👋</h1>
+<h3 align="center">Designing robust systems with intuitive architectures</h3>
 
 ## 🤝 Connect with Me
 
@@ -28,12 +28,21 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔥 This repository serves as a portfolio to showcase my skills, tech stack, and personal projects.  
-- 📖 Exploring **Next.js, TypeScript, PostgreSQL and GenAI**  
-- 🤝 Open to collaborating on **interesting web projects**  
-- 🚀 Need help? Happy to discuss **anything programming-related**  
-- 💡 Love solving problems with **efficient and scalable solutions**  
-- 📬 Reach me at **chayanmann09@gmail.com**  
+
+### Software Engineer | Backend Architecture | AI Integrations
+
+
+🌱 What I'm Up To
+
+Designing clean, maintainable, and distributed architectures that simplify complexity and serve as a reliable backbone for modern web products.
+
+Exploring the intersection of GenAI and practical software engineering.
+
+📫 Let's Connect
+
+Collaborate: Open to interesting web projects and tech discussions.
+
+Contact: chayanmann09@gmail.com
 
 ---
 
