@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### Software Engineer | Backend Architecture | AI Integrations
+### Software Engineer | Backend Architecture | Agent Orchestration
 
 
 🌱 What I'm Up To
