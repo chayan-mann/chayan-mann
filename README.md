@@ -92,10 +92,6 @@ Contact: chayanmann09@gmail.com
 [![LeetCode Stats](https://leetcard.jacoblin.cool/mann0907?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/mann0907/)
 
 
-
-### 📊 General Stats
-![Chayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chayan-mann&show_icons=true&theme=radical)  
-
 ---
 
 
