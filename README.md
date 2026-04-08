@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-### Software Engineer | Backend Architecture | Agent Orchestration | Infra
+### Software Engineer | Backend Developer | System Design | Agent Orchestration | Infra
 
 
 🌱 What I do
