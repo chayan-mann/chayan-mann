@@ -42,6 +42,7 @@ Exploring the intersection of GenAI and practical software engineering.
 Collaborate: Open to interesting web projects and tech discussions.
 
 Contact: chayanmann09@gmail.com
+Portfolio: https://www.chayanmann.in
 
 ---
 
