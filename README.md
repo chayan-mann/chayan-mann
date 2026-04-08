@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Software Engineer | Backend Architecture | Agent Orchestration | Infra
 
 
-🌱 What I'm Up To
+🌱 What I do
 
 Designing clean, maintainable, and distributed architectures that simplify complexity and serve as a reliable backbone for modern web products.
 
