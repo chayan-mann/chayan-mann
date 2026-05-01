@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/-React_JS-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFBF00?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=llama&logoColor=white)
