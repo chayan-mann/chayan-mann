@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - Deep diving into database internals, distributed architectures & infra systems
 - Shipping production-ready products fast
 - Helping Assured build AI-powered payer enrollment follow-up service
-- **Go checkout my biggest project** -  https://wwww.barkzandmewz.com
+- Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 
 ## Latest Blog Posts
 
