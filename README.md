@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="photo.jpg" alt="MasterHead" style="width:100%; height:auto;">
 
 <h1 align="center">Hello, I'm Chayan Mann👋</h1>
-<h3 align="center">Software Developemnt Engineer - 1 | System Design | Agent Orchestration | Infra
+<h3 align="center">Software Developemnt Engineer - 1 | Backend Architecture | Agentic AI | Infra
 </h3>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
