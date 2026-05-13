@@ -77,9 +77,15 @@ Go checkout my biggest project: https://wwww.barkzandmewz.com
 
 
 
+## GitHub Activity
+Personal 
 
-  
+![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayan-mann)
+![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayan-mann09)
 
+Assured
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayanmann)
 
 
 
