@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - Building AI-native applications & autonomous workflows
 - Deep diving into database internals, distributed architectures & infra systems
 - Shipping production-ready products fast
-- Helping Assured build AI-powered payer enrollment follow-up systems and workflow automation
+- Helping Assured build AI-powered payer enrollment follow-up service
 - **Go checkout my biggest project** -  https://wwww.barkzandmewz.com
 
 ## Latest Blog Posts
