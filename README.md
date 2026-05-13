@@ -72,14 +72,10 @@ Here are some ideas to get you started:
 - [The Engineering Behind a Reliable, Scalable Data Pipeline](https://medium.com/@chayanmann09/the-engineering-behind-a-reliable-scalable-data-pipeline-ad3f9cdaabf1)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub Activity
-Personal 
+## GitHub Activity across all 3 accounts
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayan-mann)
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayan-mann09)
-
-Assured
-
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0e4429/chayanmann)
 
 
