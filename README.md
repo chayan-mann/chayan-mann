@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <img src="photo.jpg" alt="MasterHead" style="width:100%; height:auto;">
 
 <h1 align="center">Hello, I'm Chayan Mann👋</h1>
-<h3 align="center">Designing robust systems with intuitive architectures</h3>
+<h3 align="center">Software Developemnt Engineer - 1 | System Design | Agent Orchestration | Infra
+</h3>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,26 +50,18 @@ Here are some ideas to get you started:
 
 - **LinkedIn**: https://www.linkedin.com/in/chayan_mann
 - **Portfolio**: https://www.chayanmann.in/
+- **Email**: chayanmann09@gmail.com
 
 
-
-### Software Engineer | Backend Developer | System Design | Agent Orchestration | Infra
 
 
 ## What I'm Doing
 
-- **Building Scalable Applications** - 
-- **Rapid prototyping** - Full apps in days, not months
-
-📫 Let's Connect
-
-Collaborate: Open to interesting web projects and tech discussions.
-
-Contact: chayanmann09@gmail.com
-
-Portfolio: https://www.chayanmann.in
-
-Go checkout my biggest project: https://wwww.barkzandmewz.com
+- Designing scalable backend architectures
+- Building AI-native applications & autonomous workflows
+- Exploring databases, indexing engines & distributed systems
+- Shipping production-ready products fast
+- **Go checkout my biggest project** -  https://wwww.barkzandmewz.com
 
 ## Latest Blog Posts
 
