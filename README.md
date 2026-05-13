@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 - Designing scalable backend architectures
 - Building AI-native applications & autonomous workflows
-- Exploring databases, indexing engines & distributed systems
+- Deep diving into database internals, distributed architectures & infra systems
 - Shipping production-ready products fast
 - **Go checkout my biggest project** -  https://wwww.barkzandmewz.com
 
