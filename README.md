@@ -57,10 +57,9 @@ Here are some ideas to get you started:
 
 ## What I'm Doing
 
-- Designing scalable backend architectures
-- Building AI-native applications & autonomous workflows
+- Architecting scalable backend systems & high-performance APIs
+- Engineering AI-native systems with agentic orchestration and multi-model pipelines
 - Deep diving into database internals, distributed architectures & infra systems
-- Shipping production-ready products fast
 - Helping Assured build AI-powered payer enrollment follow-up service
 - Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 
