@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 - Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 
 ## Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Doesn’t Immediately Write Your Data to Disk — Here’s Why](https://medium.com/@chayanmann09/postgresql-doesnt-immediately-write-your-data-to-disk-here-s-why-d4597a57236e)
 - [How Authentication Actually Works Across Microservices (Beyond JWT Basics)](https://medium.com/@chayanmann09/how-authentication-actually-works-across-microservices-beyond-jwt-basics-9479b1dc4766)
 - [Migrating Your PostgreSQL Database to AWS RDS](https://medium.com/@chayanmann09/migrating-your-postgresql-database-to-aws-rds-step-by-step-with-security-best-practices-3b419c0d5318)
 - [The Engineering Behind a Reliable, Scalable Data Pipeline](https://medium.com/@chayanmann09/the-engineering-behind-a-reliable-scalable-data-pipeline-ad3f9cdaabf1)
