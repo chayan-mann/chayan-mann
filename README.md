@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 
 ## What I'm Doing
 
+- Helping Assured build AI-powered payer enrollment follow-up microservice
+- Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 - Architecting scalable backend systems & high-performance APIs
 - Engineering AI-native systems with agentic orchestration and multi-model pipelines
 - Deep diving into database internals, distributed architectures & infra systems
-- Helping Assured build AI-powered payer enrollment follow-up service
-- Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
