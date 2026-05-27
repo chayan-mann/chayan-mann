@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 ## What I'm Doing
-- Helping [Assured](https://www.withassured.com/) build an AI-powered payer enrollment follow-up microservice
+- Helping <a href="https://www.withassured.com/" target="_blank" rel="noopener noreferrer">Assured</a> build an AI-powered payer enrollment follow-up microservice
 - Building Barkz & Mewz -  https://wwww.barkzandmewz.com
 - Architecting scalable backend systems & high-performance APIs
 - Engineering AI-native systems with agentic orchestration and multi-model pipelines
