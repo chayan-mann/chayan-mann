@@ -64,11 +64,12 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Distilled GPT-6 Luna into a 1.5B Model on My MacBook. Here's What Broke
+](https://medium.com/@chayanmann09/i-distilled-gpt-6-luna-into-a-1-5b-model-on-my-macbook-heres-what-broke-b0a38bb68854)
 - [Why Database Indexes Are Fast: Understanding Pages, Disk I/O, and B+ Trees
 ](https://medium.com/@chayanmann09/why-database-indexes-are-fast-understanding-pages-disk-i-o-and-b-trees-bb2bcf4b061e)
 - [PostgreSQL Doesn’t Immediately Write Your Data to Disk — Here’s Why](https://medium.com/@chayanmann09/postgresql-doesnt-immediately-write-your-data-to-disk-here-s-why-d4597a57236e)
 - [How Authentication Actually Works Across Microservices (Beyond JWT Basics)](https://medium.com/@chayanmann09/how-authentication-actually-works-across-microservices-beyond-jwt-basics-9479b1dc4766)
-- [The Engineering Behind a Reliable, Scalable Data Pipeline](https://medium.com/@chayanmann09/the-engineering-behind-a-reliable-scalable-data-pipeline-ad3f9cdaabf1)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Activity across all 3 accounts
